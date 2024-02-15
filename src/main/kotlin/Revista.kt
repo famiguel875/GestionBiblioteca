@@ -1,0 +1,1 @@
+data class Revista(val titulo: String, val numero: Int, val anio: Int)
